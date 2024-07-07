@@ -1,0 +1,6 @@
+# ninja log v5
+382	488	7420269433373496	hello_world.exe	fd45876c24b71fc1
+7	397	7420264818680275	CMakeFiles/hello_world.dir/example.cpp.obj	53bd586b4ad80f92
+11	141	7420270168962048	build.ninja	245a17d5a9642508
+2	382	7420269432533017	CMakeFiles/hello_world.dir/hello_world.cpp.obj	e286a70b5c515a42
+6	377	7420269432512966	CMakeFiles/hello_world.dir/todo_move_me_out.cpp.obj	7e3771e2cd403afc
