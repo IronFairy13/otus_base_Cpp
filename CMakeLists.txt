@@ -1,16 +1,23 @@
 cmake_minimum_required(VERSION 3.5)
 
-project(01.hello_world)
+project(03.homework)
 
-add_executable(hello_world 
-    hello_world.cpp
-    example.cpp
-    example.h
-    todo_move_me_out.cpp
-    todo_move_me_out.h
+add_executable(
+	check_value
+	check_value.cpp
 )
 
-set_target_properties(hello_world PROPERTIES
-    CXX_STANDARD 17
-    CXX_STANDARD_REQUIRED ON
+add_executable(
+	random_value
+	random_value.cpp
+)
+
+add_executable(
+	high_scores
+	high_scores.cpp
+)
+
+add_executable(
+	argument
+	argument.cpp
 )
