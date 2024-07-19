@@ -1,23 +1,4 @@
-cmake_minimum_required(VERSION 3.5)
+cmake_minimum_required(VERSION 3.5.0)
+project(Guess_the_number VERSION 0.1.0 LANGUAGES C CXX)
 
-project(03.homework)
 
-add_executable(
-	check_value
-	check_value.cpp
-)
-
-add_executable(
-	random_value
-	random_value.cpp
-)
-
-add_executable(
-	high_scores
-	high_scores.cpp
-)
-
-add_executable(
-	argument
-	argument.cpp
-)
