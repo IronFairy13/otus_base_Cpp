@@ -1,0 +1,37 @@
+# ninja log v6
+3	108	7441541329321233	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	5718469ac313a437
+109	12811	7441541456362624	C:/Personal stuff/PG/otus_base_Cpp/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	4a50b12ffc59093
+3	108	7441541329321233	C:/Personal stuff/PG/otus_base_Cpp/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	5718469ac313a437
+16	2623	7441746331645927	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	ad1c5bdce2464fdf
+109	12811	7441541456362624	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	4a50b12ffc59093
+2624	2722	7441746358619441	C:/Personal stuff/PG/otus_base_Cpp/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	c863139706cc36be
+16	2623	7441746331645927	C:/Personal stuff/PG/otus_base_Cpp/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	ad1c5bdce2464fdf
+2624	2722	7441746358619441	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	c863139706cc36be
+3003	3093	7441746362325555	C:/Personal stuff/PG/otus_base_Cpp/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	aa19a6f39c39e427
+2723	2814	7441746359539933	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	63638f9233d565ec
+2723	2814	7441746359539933	C:/Personal stuff/PG/otus_base_Cpp/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	63638f9233d565ec
+2815	2908	7441746360472663	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	14f6c35b6e8138db
+2815	2908	7441746360472663	C:/Personal stuff/PG/otus_base_Cpp/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	14f6c35b6e8138db
+2909	3002	7441746361414094	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	baf52762cd16421b
+2909	3002	7441746361414094	C:/Personal stuff/PG/otus_base_Cpp/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	baf52762cd16421b
+3003	3093	7441746362325555	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	aa19a6f39c39e427
+3093	3218	7441746363573921	CMakeFiles/sfml-populate-complete	293e18ee593dc8ae
+3093	3218	7441746363573921	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	293e18ee593dc8ae
+3093	3218	7441746363573921	C:/Personal stuff/PG/otus_base_Cpp/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	293e18ee593dc8ae
+3093	3218	7441746363573921	C:/Personal stuff/PG/otus_base_Cpp/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	293e18ee593dc8ae
+15	2770	7441752164810133	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	ad1c5bdce2464fdf
+15	2770	7441752164810133	C:/Personal stuff/PG/otus_base_Cpp/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	ad1c5bdce2464fdf
+2770	2861	7441752193186940	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	c863139706cc36be
+2770	2861	7441752193186940	C:/Personal stuff/PG/otus_base_Cpp/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	c863139706cc36be
+2862	2952	7441752194095758	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	63638f9233d565ec
+2862	2952	7441752194095758	C:/Personal stuff/PG/otus_base_Cpp/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	63638f9233d565ec
+2952	3041	7441752194982237	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	14f6c35b6e8138db
+2952	3041	7441752194982237	C:/Personal stuff/PG/otus_base_Cpp/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	14f6c35b6e8138db
+3041	3133	7441752195900371	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	baf52762cd16421b
+3041	3133	7441752195900371	C:/Personal stuff/PG/otus_base_Cpp/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	baf52762cd16421b
+3133	3225	7441752196820496	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	aa19a6f39c39e427
+3133	3225	7441752196820496	C:/Personal stuff/PG/otus_base_Cpp/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	aa19a6f39c39e427
+3225	3352	7441752198087756	CMakeFiles/sfml-populate-complete	293e18ee593dc8ae
+3225	3352	7441752198087756	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	293e18ee593dc8ae
+3225	3352	7441752198087756	C:/Personal stuff/PG/otus_base_Cpp/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	293e18ee593dc8ae
+3225	3352	7441752198087756	C:/Personal stuff/PG/otus_base_Cpp/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	293e18ee593dc8ae

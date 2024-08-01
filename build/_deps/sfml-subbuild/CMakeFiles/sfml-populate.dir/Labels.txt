@@ -1,0 +1,14 @@
+# Target labels
+ sfml-populate
+# Source files and their labels
+C:/Personal stuff/PG/otus_base_Cpp/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate
+C:/Personal stuff/PG/otus_base_Cpp/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate.rule
+C:/Personal stuff/PG/otus_base_Cpp/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete.rule
+C:/Personal stuff/PG/otus_base_Cpp/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build.rule
+C:/Personal stuff/PG/otus_base_Cpp/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure.rule
+C:/Personal stuff/PG/otus_base_Cpp/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download.rule
+C:/Personal stuff/PG/otus_base_Cpp/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install.rule
+C:/Personal stuff/PG/otus_base_Cpp/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir.rule
+C:/Personal stuff/PG/otus_base_Cpp/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch.rule
+C:/Personal stuff/PG/otus_base_Cpp/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test.rule
+C:/Personal stuff/PG/otus_base_Cpp/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update.rule
