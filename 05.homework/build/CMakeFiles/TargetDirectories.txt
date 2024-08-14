@@ -1,0 +1,5 @@
+C:/Users/savch/Study/Base_Cpp/05.homework/build/CMakeFiles/random_shuffle.dir
+C:/Users/savch/Study/Base_Cpp/05.homework/build/CMakeFiles/chrono_example.dir
+C:/Users/savch/Study/Base_Cpp/05.homework/build/CMakeFiles/statistics.dir
+C:/Users/savch/Study/Base_Cpp/05.homework/build/CMakeFiles/edit_cache.dir
+C:/Users/savch/Study/Base_Cpp/05.homework/build/CMakeFiles/rebuild_cache.dir
