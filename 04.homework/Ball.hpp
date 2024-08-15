@@ -17,8 +17,8 @@ public:
 private:
     Velocity b_velocity;
     Point b_center;
-    Color color;
-    double b_radius
+    Color b_color;
+    double b_radius = 3;
     double b_mass;
 
 };
