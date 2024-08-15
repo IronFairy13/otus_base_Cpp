@@ -109,8 +109,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/savch/Study/Base_Cpp/04.homework/build/CMakeFiles/CMakeScratch/TryCompile-8zrddx"
-      binary: "C:/Users/savch/Study/Base_Cpp/04.homework/build/CMakeFiles/CMakeScratch/TryCompile-8zrddx"
+      source: "C:/Users/savch/Study/Base_Cpp/04.homework/build/CMakeFiles/CMakeScratch/TryCompile-8i4ikz"
+      binary: "C:/Users/savch/Study/Base_Cpp/04.homework/build/CMakeFiles/CMakeScratch/TryCompile-8i4ikz"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -119,11 +119,11 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/savch/Study/Base_Cpp/04.homework/build/CMakeFiles/CMakeScratch/TryCompile-8zrddx'
+        Change Dir: 'C:/Users/savch/Study/Base_Cpp/04.homework/build/CMakeFiles/CMakeScratch/TryCompile-8i4ikz'
         
-        Run Build Command(s): C:/MyApp/Ninja/ninja.exe -v cmTC_bf468
-        [1/2] C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx86\\x86\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_bf468.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_bf468.dir\\ /FS -c C:\\MyApp\\Cmake\\share\\cmake-3.30\\Modules\\CMakeCCompilerABI.c
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\MyApp\\Cmake\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_bf468.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100220~1.0\\x86\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100220~1.0\\x86\\mt.exe --manifests  -- C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx86\\x86\\link.exe /nologo CMakeFiles\\cmTC_bf468.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_bf468.exe /implib:cmTC_bf468.lib /pdb:cmTC_bf468.pdb /version:0.0 /machine:X86  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): C:/MyApp/Ninja/ninja.exe -v cmTC_0362f
+        [1/2] C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx86\\x86\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_0362f.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_0362f.dir\\ /FS -c C:\\MyApp\\Cmake\\share\\cmake-3.30\\Modules\\CMakeCCompilerABI.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\MyApp\\Cmake\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_0362f.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100220~1.0\\x86\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100220~1.0\\x86\\mt.exe --manifests  -- C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx86\\x86\\link.exe /nologo CMakeFiles\\cmTC_0362f.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_0362f.exe /implib:cmTC_0362f.lib /pdb:cmTC_0362f.pdb /version:0.0 /machine:X86  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -163,8 +163,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/savch/Study/Base_Cpp/04.homework/build/CMakeFiles/CMakeScratch/TryCompile-lteavv"
-      binary: "C:/Users/savch/Study/Base_Cpp/04.homework/build/CMakeFiles/CMakeScratch/TryCompile-lteavv"
+      source: "C:/Users/savch/Study/Base_Cpp/04.homework/build/CMakeFiles/CMakeScratch/TryCompile-xh5mag"
+      binary: "C:/Users/savch/Study/Base_Cpp/04.homework/build/CMakeFiles/CMakeScratch/TryCompile-xh5mag"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -174,11 +174,11 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/savch/Study/Base_Cpp/04.homework/build/CMakeFiles/CMakeScratch/TryCompile-lteavv'
+        Change Dir: 'C:/Users/savch/Study/Base_Cpp/04.homework/build/CMakeFiles/CMakeScratch/TryCompile-xh5mag'
         
-        Run Build Command(s): C:/MyApp/Ninja/ninja.exe -v cmTC_14f31
-        [1/2] C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_14f31.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_14f31.dir\\ /FS -c C:\\MyApp\\Cmake\\share\\cmake-3.30\\Modules\\CMakeCXXCompilerABI.cpp
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\MyApp\\Cmake\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_14f31.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100220~1.0\\x86\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100220~1.0\\x86\\mt.exe --manifests  -- C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx86\\x86\\link.exe /nologo CMakeFiles\\cmTC_14f31.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_14f31.exe /implib:cmTC_14f31.lib /pdb:cmTC_14f31.pdb /version:0.0 /machine:X86  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): C:/MyApp/Ninja/ninja.exe -v cmTC_dcaf7
+        [1/2] C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_dcaf7.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_dcaf7.dir\\ /FS -c C:\\MyApp\\Cmake\\share\\cmake-3.30\\Modules\\CMakeCXXCompilerABI.cpp
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\MyApp\\Cmake\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_dcaf7.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100220~1.0\\x86\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100220~1.0\\x86\\mt.exe --manifests  -- C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx86\\x86\\link.exe /nologo CMakeFiles\\cmTC_dcaf7.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_dcaf7.exe /implib:cmTC_dcaf7.lib /pdb:cmTC_dcaf7.pdb /version:0.0 /machine:X86  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -219,8 +219,8 @@ events:
     checks:
       - "Looking for sys/types.h"
     directories:
-      source: "C:/Users/savch/Study/Base_Cpp/04.homework/build/CMakeFiles/CMakeScratch/TryCompile-smx17c"
-      binary: "C:/Users/savch/Study/Base_Cpp/04.homework/build/CMakeFiles/CMakeScratch/TryCompile-smx17c"
+      source: "C:/Users/savch/Study/Base_Cpp/04.homework/build/CMakeFiles/CMakeScratch/TryCompile-q8bux6"
+      binary: "C:/Users/savch/Study/Base_Cpp/04.homework/build/CMakeFiles/CMakeScratch/TryCompile-q8bux6"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -231,11 +231,11 @@ events:
       variable: "HAVE_SYS_TYPES_H"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/savch/Study/Base_Cpp/04.homework/build/CMakeFiles/CMakeScratch/TryCompile-smx17c'
+        Change Dir: 'C:/Users/savch/Study/Base_Cpp/04.homework/build/CMakeFiles/CMakeScratch/TryCompile-q8bux6'
         
-        Run Build Command(s): C:/MyApp/Ninja/ninja.exe -v cmTC_01e66
-        [1/2] C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx86\\x86\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_01e66.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_01e66.dir\\ /FS -c C:\\Users\\savch\\Study\\Base_Cpp\\04.homework\\build\\CMakeFiles\\CMakeScratch\\TryCompile-smx17c\\CheckIncludeFile.c
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\MyApp\\Cmake\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_01e66.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100220~1.0\\x86\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100220~1.0\\x86\\mt.exe --manifests  -- C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx86\\x86\\link.exe /nologo CMakeFiles\\cmTC_01e66.dir\\CheckIncludeFile.c.obj  /out:cmTC_01e66.exe /implib:cmTC_01e66.lib /pdb:cmTC_01e66.pdb /version:0.0 /machine:X86  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): C:/MyApp/Ninja/ninja.exe -v cmTC_e9936
+        [1/2] C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx86\\x86\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_e9936.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_e9936.dir\\ /FS -c C:\\Users\\savch\\Study\\Base_Cpp\\04.homework\\build\\CMakeFiles\\CMakeScratch\\TryCompile-q8bux6\\CheckIncludeFile.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\MyApp\\Cmake\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_e9936.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100220~1.0\\x86\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100220~1.0\\x86\\mt.exe --manifests  -- C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx86\\x86\\link.exe /nologo CMakeFiles\\cmTC_e9936.dir\\CheckIncludeFile.c.obj  /out:cmTC_e9936.exe /implib:cmTC_e9936.lib /pdb:cmTC_e9936.pdb /version:0.0 /machine:X86  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -248,8 +248,8 @@ events:
     checks:
       - "Looking for stdint.h"
     directories:
-      source: "C:/Users/savch/Study/Base_Cpp/04.homework/build/CMakeFiles/CMakeScratch/TryCompile-9qigza"
-      binary: "C:/Users/savch/Study/Base_Cpp/04.homework/build/CMakeFiles/CMakeScratch/TryCompile-9qigza"
+      source: "C:/Users/savch/Study/Base_Cpp/04.homework/build/CMakeFiles/CMakeScratch/TryCompile-a860y5"
+      binary: "C:/Users/savch/Study/Base_Cpp/04.homework/build/CMakeFiles/CMakeScratch/TryCompile-a860y5"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -260,11 +260,11 @@ events:
       variable: "HAVE_STDINT_H"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/savch/Study/Base_Cpp/04.homework/build/CMakeFiles/CMakeScratch/TryCompile-9qigza'
+        Change Dir: 'C:/Users/savch/Study/Base_Cpp/04.homework/build/CMakeFiles/CMakeScratch/TryCompile-a860y5'
         
-        Run Build Command(s): C:/MyApp/Ninja/ninja.exe -v cmTC_ebfbd
-        [1/2] C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx86\\x86\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_ebfbd.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_ebfbd.dir\\ /FS -c C:\\Users\\savch\\Study\\Base_Cpp\\04.homework\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9qigza\\CheckIncludeFile.c
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\MyApp\\Cmake\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_ebfbd.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100220~1.0\\x86\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100220~1.0\\x86\\mt.exe --manifests  -- C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx86\\x86\\link.exe /nologo CMakeFiles\\cmTC_ebfbd.dir\\CheckIncludeFile.c.obj  /out:cmTC_ebfbd.exe /implib:cmTC_ebfbd.lib /pdb:cmTC_ebfbd.pdb /version:0.0 /machine:X86  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): C:/MyApp/Ninja/ninja.exe -v cmTC_29781
+        [1/2] C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx86\\x86\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_29781.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_29781.dir\\ /FS -c C:\\Users\\savch\\Study\\Base_Cpp\\04.homework\\build\\CMakeFiles\\CMakeScratch\\TryCompile-a860y5\\CheckIncludeFile.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\MyApp\\Cmake\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_29781.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100220~1.0\\x86\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100220~1.0\\x86\\mt.exe --manifests  -- C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx86\\x86\\link.exe /nologo CMakeFiles\\cmTC_29781.dir\\CheckIncludeFile.c.obj  /out:cmTC_29781.exe /implib:cmTC_29781.lib /pdb:cmTC_29781.pdb /version:0.0 /machine:X86  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -277,8 +277,8 @@ events:
     checks:
       - "Looking for stddef.h"
     directories:
-      source: "C:/Users/savch/Study/Base_Cpp/04.homework/build/CMakeFiles/CMakeScratch/TryCompile-pbynhl"
-      binary: "C:/Users/savch/Study/Base_Cpp/04.homework/build/CMakeFiles/CMakeScratch/TryCompile-pbynhl"
+      source: "C:/Users/savch/Study/Base_Cpp/04.homework/build/CMakeFiles/CMakeScratch/TryCompile-0q9bnp"
+      binary: "C:/Users/savch/Study/Base_Cpp/04.homework/build/CMakeFiles/CMakeScratch/TryCompile-0q9bnp"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -289,11 +289,11 @@ events:
       variable: "HAVE_STDDEF_H"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/savch/Study/Base_Cpp/04.homework/build/CMakeFiles/CMakeScratch/TryCompile-pbynhl'
+        Change Dir: 'C:/Users/savch/Study/Base_Cpp/04.homework/build/CMakeFiles/CMakeScratch/TryCompile-0q9bnp'
         
-        Run Build Command(s): C:/MyApp/Ninja/ninja.exe -v cmTC_ea951
-        [1/2] C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx86\\x86\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_ea951.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_ea951.dir\\ /FS -c C:\\Users\\savch\\Study\\Base_Cpp\\04.homework\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pbynhl\\CheckIncludeFile.c
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\MyApp\\Cmake\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_ea951.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100220~1.0\\x86\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100220~1.0\\x86\\mt.exe --manifests  -- C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx86\\x86\\link.exe /nologo CMakeFiles\\cmTC_ea951.dir\\CheckIncludeFile.c.obj  /out:cmTC_ea951.exe /implib:cmTC_ea951.lib /pdb:cmTC_ea951.pdb /version:0.0 /machine:X86  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): C:/MyApp/Ninja/ninja.exe -v cmTC_e93a6
+        [1/2] C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx86\\x86\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_e93a6.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_e93a6.dir\\ /FS -c C:\\Users\\savch\\Study\\Base_Cpp\\04.homework\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0q9bnp\\CheckIncludeFile.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\MyApp\\Cmake\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_e93a6.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100220~1.0\\x86\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100220~1.0\\x86\\mt.exe --manifests  -- C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx86\\x86\\link.exe /nologo CMakeFiles\\cmTC_e93a6.dir\\CheckIncludeFile.c.obj  /out:cmTC_e93a6.exe /implib:cmTC_e93a6.lib /pdb:cmTC_e93a6.pdb /version:0.0 /machine:X86  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -306,8 +306,8 @@ events:
     checks:
       - "Check size of void*"
     directories:
-      source: "C:/Users/savch/Study/Base_Cpp/04.homework/build/CMakeFiles/CMakeScratch/TryCompile-6k8vdj"
-      binary: "C:/Users/savch/Study/Base_Cpp/04.homework/build/CMakeFiles/CMakeScratch/TryCompile-6k8vdj"
+      source: "C:/Users/savch/Study/Base_Cpp/04.homework/build/CMakeFiles/CMakeScratch/TryCompile-lf8s6i"
+      binary: "C:/Users/savch/Study/Base_Cpp/04.homework/build/CMakeFiles/CMakeScratch/TryCompile-lf8s6i"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -318,11 +318,11 @@ events:
       variable: "HAVE_SIZEOF_VOID_PTR"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/savch/Study/Base_Cpp/04.homework/build/CMakeFiles/CMakeScratch/TryCompile-6k8vdj'
+        Change Dir: 'C:/Users/savch/Study/Base_Cpp/04.homework/build/CMakeFiles/CMakeScratch/TryCompile-lf8s6i'
         
-        Run Build Command(s): C:/MyApp/Ninja/ninja.exe -v cmTC_9c94b
-        [1/2] C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx86\\x86\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_9c94b.dir\\SIZEOF_VOID_PTR.c.obj /FdCMakeFiles\\cmTC_9c94b.dir\\ /FS -c C:\\Users\\savch\\Study\\Base_Cpp\\04.homework\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6k8vdj\\SIZEOF_VOID_PTR.c
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\MyApp\\Cmake\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_9c94b.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100220~1.0\\x86\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100220~1.0\\x86\\mt.exe --manifests  -- C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx86\\x86\\link.exe /nologo CMakeFiles\\cmTC_9c94b.dir\\SIZEOF_VOID_PTR.c.obj  /out:cmTC_9c94b.exe /implib:cmTC_9c94b.lib /pdb:cmTC_9c94b.pdb /version:0.0 /machine:X86  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): C:/MyApp/Ninja/ninja.exe -v cmTC_cf5ca
+        [1/2] C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx86\\x86\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_cf5ca.dir\\SIZEOF_VOID_PTR.c.obj /FdCMakeFiles\\cmTC_cf5ca.dir\\ /FS -c C:\\Users\\savch\\Study\\Base_Cpp\\04.homework\\build\\CMakeFiles\\CMakeScratch\\TryCompile-lf8s6i\\SIZEOF_VOID_PTR.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\MyApp\\Cmake\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_cf5ca.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100220~1.0\\x86\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100220~1.0\\x86\\mt.exe --manifests  -- C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx86\\x86\\link.exe /nologo CMakeFiles\\cmTC_cf5ca.dir\\SIZEOF_VOID_PTR.c.obj  /out:cmTC_cf5ca.exe /implib:cmTC_cf5ca.lib /pdb:cmTC_cf5ca.pdb /version:0.0 /machine:X86  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
 ...

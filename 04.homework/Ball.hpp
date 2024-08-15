@@ -9,7 +9,16 @@ public:
     Velocity getVelocity() const;
     void draw(Painter& painter) const;
     void setCenter(const Point& center);
+    Color setColor(const Color& color);
     Point getCenter() const;
     double getRadius() const;
     double getMass() const;
+
+private:
+    Velocity b_velocity;
+    Point b_center;
+    Color color;
+    double b_radius
+    double b_mass;
+
 };

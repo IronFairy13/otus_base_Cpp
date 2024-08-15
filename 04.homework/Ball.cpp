@@ -7,6 +7,7 @@
  */
 void Ball::setVelocity(const Velocity& velocity) {
     // TODO: место для доработки
+
 }
 
 /**
@@ -27,6 +28,7 @@ Velocity Ball::getVelocity() const {
  */
 void Ball::draw(Painter& painter) const {
     // TODO: место для доработки
+    painter.draw(b_center, b_radius,)
 }
 
 /**
@@ -35,6 +37,7 @@ void Ball::draw(Painter& painter) const {
  */
 void Ball::setCenter(const Point& center) {
     // TODO: место для доработки
+    b_center = center;
 }
 
 /**
@@ -42,7 +45,7 @@ void Ball::setCenter(const Point& center) {
  */
 Point Ball::getCenter() const {
     // TODO: место для доработки
-    return {};
+    return &b_center;
 }
 
 /**
@@ -52,7 +55,7 @@ Point Ball::getCenter() const {
  */
 double Ball::getRadius() const {
     // TODO: место для доработки
-    return {};
+    return &b_radius;
 }
 
 /**
@@ -60,9 +63,10 @@ double Ball::getRadius() const {
  * @details В нашем приложении считаем, что все шары
  * состоят из одинакового материала с фиксированной
  * плотностью. В этом случае масса в условных единицах
- * эквивалентна объему: PI * radius^3 * 4. / 3.
+ * эквивалентна объему: PI * radius^3 * 4. / 3. 
  */
 double Ball::getMass() const {
     // TODO: место для доработки
-    return {};
+   b_ 
+    return (4.0/3.0 * M_PI * std::pow(b_radius, 3));
 }
