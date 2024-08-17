@@ -1,13 +1,26 @@
 #include "Ball.hpp"
 #include <cmath>
 
+
+/**
+ * Задает скорость объекта
+ * @param velocity новое значение скорости
+ */
+Ball::Ball(const Point& center,const Velocity& velocity,const Color& color, double& radius)
+{
+    Ball::setCenter(center);
+    Ball::setVelocity(velocity);
+    Ball::setColor(color);
+    Ball::b_radius = radius;
+}
+
 /**
  * Задает скорость объекта
  * @param velocity новое значение скорости
  */
 void Ball::setVelocity(const Velocity& velocity) {
     // TODO: место для доработки
-
+    b_velocity = velocity;
 }
 
 /**
@@ -69,4 +82,12 @@ double Ball::getMass() const {
     // TODO: место для доработки
 
     return (4.0/3.0 * M_PI * std::pow(b_radius, 3));
+}
+
+/**
+ * @brief Задает цвет шара 
+ */
+void Ball::setColor(const Color& color)
+{
+    Ball::b_color = color;
 }

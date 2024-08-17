@@ -86,3 +86,9 @@
 7820	9492	7453076991844497	CMakeFiles/physics.dir/black_box/PainterImpl.cpp.obj	e38c7ceda3f8f84
 7799	9563	7453076991624504	CMakeFiles/physics.dir/black_box/Application.cpp.obj	815789c6e8fd2ab9
 9564	11150	7453077009265499	physics.exe	be12ab871fd48045
+54	260	7455651890560505	CMakeFiles/physics.dir/Ball.cpp.obj	eda72540aa1790c2
+57	293	7455651890604698	CMakeFiles/physics.dir/Physics.cpp.obj	95cedb5ff2b248b5
+50	543	7455651890525464	CMakeFiles/physics.dir/World.cpp.obj	b849e734fbf5f442
+46	631	7455651890492681	CMakeFiles/physics.dir/main.cpp.obj	c7a99577272d7a83
+60	632	7455651890634729	CMakeFiles/physics.dir/black_box/Application.cpp.obj	815789c6e8fd2ab9
+632	930	7455651896347473	physics.exe	be12ab871fd48045
