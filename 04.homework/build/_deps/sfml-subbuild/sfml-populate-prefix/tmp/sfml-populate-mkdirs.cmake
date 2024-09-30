@@ -18,7 +18,7 @@ file(MAKE_DIRECTORY
   "C:/Users/savch/Study/Base_Cpp/04.homework/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp"
 )
 
-set(configSubDirs )
+set(configSubDirs Debug)
 foreach(subDir IN LISTS configSubDirs)
     file(MAKE_DIRECTORY "C:/Users/savch/Study/Base_Cpp/04.homework/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/${subDir}")
 endforeach()

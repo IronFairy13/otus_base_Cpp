@@ -7,10 +7,11 @@ class Velocity {
     inline Velocity() = default;
 
     // TODO: комментарии
-    inline Velocity(double abs, double angle) {
-        const double x = std::cos(angle);
-        const double y = std::sin(angle);
-        vec = Point{x, y} * abs;
+    inline Velocity(double x, double y) {
+        // const double x = std::cos(angle);
+        // const double y = std::sin(angle);
+        // vec = Point{x, y} * abs;
+        vec = Point{x, y};
     }
 
     inline Velocity(const Point& vector) {
