@@ -2,3 +2,5 @@
 lectures/
 00.test/
 build/
+/build 
+.vscode
