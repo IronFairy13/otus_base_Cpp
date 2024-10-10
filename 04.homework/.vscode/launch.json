@@ -1,0 +1,15 @@
+{
+    "configurations": [
+    {
+        "name": "(Windows) Launch",
+        "type": "cppvsdbg",
+        "request": "launch",
+        "program": "${workspaceFolder}/build/Debug/physics.exe",
+        "args": ["C:/Users/savch/Study/Base_Cpp/04.homework/data/elephant.txt"],
+        "stopAtEntry": false,
+        "cwd": "${fileDirname}",
+        "environment": [],
+        "console": "externalTerminal"
+    }
+    ]
+}

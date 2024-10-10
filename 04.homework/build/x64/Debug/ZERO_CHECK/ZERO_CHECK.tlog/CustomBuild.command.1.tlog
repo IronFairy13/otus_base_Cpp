@@ -1,0 +1,10 @@
+^C:\USERS\SAVCH\STUDY\BASE_CPP\04.HOMEWORK\BUILD\CMAKEFILES\5881C892C7D6800B6F59017B905D1141\GENERATE.STAMP.RULE
+setlocal
+C:\MyApp\Cmake\bin\cmake.exe -SC:/Users/savch/Study/Base_Cpp/04.homework -BC:/Users/savch/Study/Base_Cpp/04.homework/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/savch/Study/Base_Cpp/04.homework/build/physics.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -10,6 +10,8 @@ public:
 	virtual const char * name() const = 0;
 };
 
+
+
 class Min : public IStatistics {
 public:
 	Min() : m_min{std::numeric_limits<double>::min()} {
