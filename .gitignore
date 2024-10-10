@@ -1,6 +1,5 @@
-.vs
+.vs/
 lectures/
-00.test/
-04.homework/build
-04.homework/.vscode
+/04.homework/build/
+/04.homework/.vscode/
 05.homework/
