@@ -1,6 +1,8 @@
 
 #include <iostream>
 #include <limits>
+#include <vector>
+#include <cmath>
 
 class IStatistics
 {
@@ -72,6 +74,39 @@ private:
 class Std : public IStatistics
 {
 public:
+    Std(IStatistics *a) : MeanPtr(a), m_count{0}
+    {
+    }
+
+    void update(double next) override
+    {
+        m_values.push_back(next);
+        ++m_count;
+    }
+
+    double eval() const override
+    {
+        double m_mean = MeanPtr->eval();
+        double m_sum = 0;
+
+        for (const auto& num : m_values)
+        {
+
+            m_sum = m_sum + std::pow((num - m_mean), 2);
+        }
+
+        return std::sqrt(m_sum / m_count);
+    }
+
+    const char *name() const override
+    {
+        return "std";
+    }
+
+private:
+    int m_count;
+    std::vector<double> m_values;
+    IStatistics *MeanPtr;
 };
 
 class Pct90 : public IStatistics
@@ -115,12 +150,13 @@ private:
 int main()
 {
 
-    const size_t statistics_count = 3;
+    const size_t statistics_count = 4;
     IStatistics *statistics[statistics_count];
 
     statistics[0] = new Min{};
     statistics[1] = new Max{};
     statistics[2] = new Mean{};
+    statistics[3] = new Std{statistics[2]};
 
     double val = 0;
     while (std::cin >> val)
