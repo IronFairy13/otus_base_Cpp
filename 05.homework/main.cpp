@@ -17,7 +17,7 @@ public:
 class Max : public IStatistics
 {
 public:
-    Max() : m_max{std::numeric_limits<double>::min()}
+    Max() : m_max{std::numeric_limits<double>::lowest()}
     {
     }
 
@@ -109,19 +109,20 @@ private:
     IStatistics *MeanPtr;
 };
 
-class Pct90 : public IStatistics
-{
-public:
-};
+// class Pct90 : public IStatistics
+// {
+// public:
+// };
 
-class Pct95 : public IStatistics
-{
-public:
-};
+// class Pct95 : public IStatistics
+// {
+// public:
+
+// };
 class Min : public IStatistics
 {
 public:
-    Min() : m_min{std::numeric_limits<double>::min()}
+    Min() : m_min{std::numeric_limits<double>::max()}
     {
     }
 
